@@ -10,13 +10,13 @@ edition = "2021"
 anyhow = "1.0.71"
 clap = { version = "4.2.5", features = ["cargo", "derive" ] }
 git-version = "0.3.5"
-indoc = "2.0.1"
+indoc = "2.0.3"
 textwrap = { version = "0.16.0", default-features = false }
 
 opencan-core = { path = "../core" }
 
 [dev-dependencies]
-indoc = "2.0.1"
+indoc = "2.0.3"
 libloading = "0.8.0"
 pyo3 = { version = "0.18.3", features = ["auto-initialize"] }
 semver = "1.0.17"
