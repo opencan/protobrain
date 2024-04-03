@@ -14,7 +14,7 @@ ctrlc = "3.2.5"
 eframe = { version = "0.21.3", features = [
     "__screenshot", # __screenshot is so we can dump a ascreenshot using EFRAME_SCREENSHOT_TO
 ] }
-egui_extras = "0.21.0"
+egui_extras = "0.22.0"
 pycanrs = "0.1.0"
 tracing-subscriber = "0.3"
 
