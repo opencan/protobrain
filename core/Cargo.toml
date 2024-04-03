@@ -9,7 +9,7 @@ bimap = { version = "0.6.3", features = ["serde"] }
 can-dbc = "5.0.0"
 derive_builder = { version = "0.12.0", features = ["clippy"] }
 indoc = "2.0.1"
-serde = { version = "1.0.160", features = ["derive"] }
+serde = { version = "1.0.167", features = ["derive"] }
 textwrap = { version = "0.16.0", default-features = false }
 thiserror = "1.0.40"
 
