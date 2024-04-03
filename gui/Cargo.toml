@@ -10,7 +10,7 @@ edition = "2021"
 anyhow = "1.0.71"
 bitvec = "1.0.1"
 clap = { version = "4.2.5", features = ["derive"] }
-ctrlc = "3.2.5"
+ctrlc = "3.4.0"
 eframe = { version = "0.21.3", features = [
     "__screenshot", # __screenshot is so we can dump a ascreenshot using EFRAME_SCREENSHOT_TO
 ] }
