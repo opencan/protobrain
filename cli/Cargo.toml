@@ -9,4 +9,4 @@ anyhow = "1.0.71"
 opencan-analyze = { path = "../analyze" }
 opencan-codegen = { path = "../codegen" }
 opencan-compose = { path = "../compose" }
-clap = "4.2.5"
+clap = "4.3.15"
