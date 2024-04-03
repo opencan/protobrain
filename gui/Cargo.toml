@@ -11,7 +11,7 @@ anyhow = "1.0.71"
 bitvec = "1.0.1"
 clap = { version = "4.2.5", features = ["derive"] }
 ctrlc = "3.2.5"
-eframe = { version = "0.21.3", features = [
+eframe = { version = "0.22.0", features = [
     "__screenshot", # __screenshot is so we can dump a ascreenshot using EFRAME_SCREENSHOT_TO
 ] }
 egui_extras = "0.21.0"
